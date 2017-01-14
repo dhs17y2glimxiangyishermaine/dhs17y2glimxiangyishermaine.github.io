@@ -1,8 +1,9 @@
 h1{
-color:orange
-title{
-color:red;
+  color:orange;
 }
-background{
-color:blue;
+title{
+  color:red;
+}
+body {
+    background-color: blue;
 }
